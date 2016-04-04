@@ -1,0 +1,28 @@
+name: MEGA FAUNA SOUND
+favicon: null
+layout_spectrum: 0.5223742246162146
+typography_spectrum: 0.4825019028503448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5857038188260049
+  lightness: 0.1840103140566498
+  saturation: 0.7845908063463867
+  rhythmicContrast: 0.9633952039293945
+purpose: []
